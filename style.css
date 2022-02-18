@@ -57,7 +57,7 @@ p {
     align-items: center;
 }
 
-.price h3 {
+.price h2 {
     color: hsl(178, 100%, 50%);
     font-size: .9rem;
     font-weight: 400;
@@ -148,7 +148,7 @@ span:hover {
         font-size: 1.1rem;
     }
 
-    .price h3 {
+    .price h2 {
         font-weight: 600;
         font-size: 1rem;
     }
